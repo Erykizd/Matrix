@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1665427532 source:d:\code_blocks_projects\macierze\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<vector>
+	"Matrix.h"
+
+1665427644 source:d:\code_blocks_projects\macierze\src\matrix.cpp
+	"Matrix.h"
+	<vector>
+	<iostream>
+
+1665427586 d:\code_blocks_projects\macierze\include\matrix.h
+	<vector>
+	<iostream>
+
